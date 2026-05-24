@@ -17,8 +17,8 @@ I am a final-year Computer Science student at the University of Computer Studies
 
 ---
 
-###  Git Participation
+### 📊 Git Participation
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thantzin-067&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Thantzin-067&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thantzin-067&theme=tokyonight)
