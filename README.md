@@ -1,16 +1,24 @@
-## Hi there 👋
+#  Hi, I'm Thant Zin
 
-<!--
-**Thantzin-067/Thantzin-067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring DevOps & Cloud Engineer | Computer Science Student
 
-Here are some ideas to get you started:
+I am a final-year Computer Science student at the University of Computer Studies, Monywa. I have a strong passion for Cloud Native technologies, Automation, and Infrastructure as Code (IaC). Currently, I am focused on building secure architectures and modern DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Tech Stack & Skills
+
+* Cloud & Infrastructure: Amazon Web Services (AWS) 
+  * *Experienced in designing robust AWS VPC infrastructures using both Terraform and AWS CloudFormation.*
+* Containerization & Orchestration: Docker, Kubernetes (EKS)
+* Configuration Management & Automation: Ansible, Shell Scripting
+* Operating Systems: Ubuntu Linux
+* Tools & Platforms: Git, GitHub Actions, Postman
+
+---
+
+###  Git Participation
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thantzin-067&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thantzin-067&theme=tokyonight)
